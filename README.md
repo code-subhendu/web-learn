@@ -1,4 +1,4 @@
 # web-learn
 learning web devalopment
 <br>
-Author-Subhendu Maiti
+Author-Subhendu Maiti (student)
